@@ -1,0 +1,17 @@
+{
+  "branch": "minecolonies:createminecolonies",
+  "name": "Create Stone Recipes",
+  "researchLevel": 1,
+  "subtitle": "Unlocks automatically-learned crafting recipes for misc. Create stone items that are otherwise not doable by colonists. Note, players have more options for how to do these than colonists do, to simplify the datapack.",
+  "icon": "create:layered_granite",
+  "requirements": [
+    {
+      "building": "stonemason",
+      "level": 2
+    },
+    {
+      "item": "minecraft:stonecutter",
+      "quantity": 1
+    }
+  ]
+}

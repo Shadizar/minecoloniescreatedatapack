@@ -1,0 +1,14 @@
+{
+  "type" : "recipe",
+  "crafter": "stonemason_crafting",
+  "inputs": [
+    {
+        "item" : "minecraft:copper_ingot",
+        "count": 1
+    }
+  ],
+  "result": "create:copper_shingles",
+  "count": 2,
+  "research-id": "minecoloniescreate:createminecolonies/metalcutting",
+  "min-building-level": 3
+}

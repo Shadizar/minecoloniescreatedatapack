@@ -1,0 +1,17 @@
+{
+  "branch": "minecolonies:createminecolonies",
+  "name": "Framed Glass Recipes",
+  "researchLevel": 1,
+  "subtitle": "Unlocks automatically-learned crafting recipes for framed glass items. Note, players have more options for how to do these than colonists do, to simplify the datapack.",
+  "icon": "minecraft:stonecutter",
+  "requirements": [
+    {
+      "building": "glassblower",
+      "level": 2
+    },
+    {
+      "item": "minecraft:stonecutter",
+      "quantity": 2
+    }
+  ]
+}

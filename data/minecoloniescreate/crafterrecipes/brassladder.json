@@ -1,0 +1,14 @@
+{
+  "type" : "recipe",
+  "crafter": "mechanic_crafting",
+  "inputs": [
+    {
+        "item" : "create:brass_ingot",
+        "count": 1
+    }
+  ],
+  "result": "create:brass_ladder",
+  "count": 2,
+  "research-id": "minecoloniescreate:createminecolonies/metalcutting",
+  "min-building-level": 3
+}

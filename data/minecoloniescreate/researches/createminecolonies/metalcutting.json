@@ -1,0 +1,17 @@
+{
+  "branch": "minecolonies:createminecolonies",
+  "name": "Metalcutting Recipes",
+  "researchLevel": 1,
+  "subtitle": "Unlocks automatically-learned crafting recipes to the mechanic and stonemason, for metal items made in the stonecutter. CAUTION, this has several recipes, only research when really sure.",
+  "icon": "minecraft:stonecutter",
+  "requirements": [
+    {
+      "building": "mechanic",
+      "level": 3
+    },
+    {
+      "item": "minecraft:stonecutter",
+      "quantity": 2
+    }
+  ]
+}

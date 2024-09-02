@@ -1,0 +1,23 @@
+{
+  "type" : "recipe",
+  "crafter": "blacksmith_crafting",
+  "inputs": [
+    {
+        "item" : "create:copper_diving_helmet",
+        "count": 1
+    },
+    {
+        "item" : "minecraft:netherite_ingot",
+        "count": 1
+    },
+    {
+        "item" : "minecraft:netherite_upgrade_smithing_template",
+        "count": 1
+    }
+  ],
+  "result": "create:netherite_diving_helmet",
+  "count": 1,
+  "intermediate" : "minecraft:air",
+  "research-id": "minecoloniescreate:createminecolonies/netheritegear",
+  "min-building-level": 5
+}

@@ -1,0 +1,8 @@
+{
+"replace": false,
+"values": [
+    "create:rose_quartz_tiles",
+    "create:small_rose_quartz_tiles",
+    "create:andesite_door"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "branch": "minecolonies:createminecolonies",
+  "name": "Netherite Recipes",
+  "researchLevel": 1,
+  "subtitle": "Unlocks automatically-learned crafting recipes that use Netherite.",
+  "icon": "minecraft:netherite_ingot",
+  "requirements": [
+    {
+      "building": "blacksmith",
+      "level": 5
+    },
+    {
+      "item": "minecraft:netherite_ingot",
+      "quantity": 2
+    }
+  ]
+}

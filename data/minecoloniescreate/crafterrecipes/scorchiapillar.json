@@ -1,0 +1,14 @@
+{
+  "type" : "recipe",
+  "crafter": "stonemason_crafting",
+  "inputs": [
+    {
+        "item" : "create:scorchia",
+        "count": 1
+    }
+  ],
+  "result": "create:scorchia_pillar",
+  "count": 1,
+  "research-id": "minecoloniescreate:createminecolonies/createstonecutting",
+  "min-building-level": 2
+}

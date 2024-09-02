@@ -1,0 +1,14 @@
+{
+  "type" : "recipe",
+  "crafter": "glassblower_crafting",
+  "inputs": [
+    {
+        "item" : "minecraft:glass",
+        "count": 1
+    }
+  ],
+  "result": "create:framed_glass",
+  "count": 1,
+  "research-id": "minecoloniescreate:createminecolonies/framedglass",
+  "min-building-level": 2
+}
