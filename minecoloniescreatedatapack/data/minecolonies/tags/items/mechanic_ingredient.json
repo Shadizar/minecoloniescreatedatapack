@@ -1,7 +1,0 @@
-{
-"replace": false,
-"values": [
-    "create:electron_tube",
-    "create:precision_mechanism"
-  ]
-}
