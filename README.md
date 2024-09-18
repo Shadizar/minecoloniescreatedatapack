@@ -6,3 +6,4 @@ Deliberately excludes items made with mechanical crafting, manual items like and
 
 I also rearranged some of the colonists (sometimes the auto detection for which colonist would make which recipe were logically a bit off).
 Pathblocks are implemented, and ladders/scaffolding should be colonist-usable.
+ (1.19.2 and 1.20.1; see my other repos for newer versions)
